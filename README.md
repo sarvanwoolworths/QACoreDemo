@@ -1,2 +1,2 @@
 # QACoreDemo
-Core Automation team demo repo
+Core Automation team demo repo created
